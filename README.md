@@ -16,8 +16,8 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | # | Lab | Status |
 |---|---|---|
 | 1 | Navigating the Filesystem | ✅ Complete |
-| 2 | Working with Directories | ⬜ Complete |
-| 3 | Managing Files | ⬜ Not Started |
+| 2 | Working with Directories |  ✅ Complete |
+| 3 | Managing Files |  ✅ Complete |
 | 4 | Using Text Editors | ⬜ Not Started |
 | 5 | File Permissions Basics | ⬜ Not Started |
 | 6 | Working with Ownership | ⬜ Not Started |
