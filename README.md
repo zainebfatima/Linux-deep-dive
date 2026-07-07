@@ -19,9 +19,9 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | 2 | Working with Directories |  ✅ Complete |
 | 3 | Managing Files |  ✅ Complete |
 | 4 | Using Text Editors |   ✅ Complete |
-| 5 | File Permissions Basics | ⬜ Not Started |
-| 6 | Working with Ownership | ⬜ Not Started |
-| 7 | Using Wildcards | ⬜ Not Started |
+| 5 | File Permissions Basics |    ✅ Complete  |
+| 6 | Working with Ownership |    ✅ Complete  |
+| 7 | Using Wildcards |    ✅ Complete  |
 
 ## Why This Repo
 
