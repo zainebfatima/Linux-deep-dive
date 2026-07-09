@@ -22,6 +22,8 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | 5 | File Permissions Basics |    ✅ Complete  |
 | 6 | Working with Ownership |    ✅ Complete  |
 | 7 | Using Wildcards |    ✅ Complete  |
+| 8 | Viewing File Contents |    ✅ Complete  |
+| 9 | Working with Links |    ✅ Complete  |
 
 ## Why This Repo
 
