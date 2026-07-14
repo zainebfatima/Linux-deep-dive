@@ -24,6 +24,10 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | 7 | Using Wildcards |    ✅ Complete  |
 | 8 | Viewing File Contents |    ✅ Complete  |
 | 9 | Working with Links |    ✅ Complete  |
+| 10 | Understanding Shells |    ✅ Complete  |
+| 11 | Environmental Variables |    ✅ Complete  |
+| 12| Basic Shell Scripting |    ✅ Complete  |
+| 13| Linux Piping |    ✅ Complete  |
 
 ## Why This Repo
 
