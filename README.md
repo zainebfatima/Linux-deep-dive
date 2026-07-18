@@ -28,6 +28,9 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | 11 | Environmental Variables |    ✅ Complete  |
 | 12| Basic Shell Scripting |    ✅ Complete  |
 | 13| Linux Piping |    ✅ Complete  |
+| 14| Basic Process Management |    ✅ Complete  |
+| 15| Jobs |     |
+| 16| Using Alias |    ✅ Complete  |
 
 ## Why This Repo
 
