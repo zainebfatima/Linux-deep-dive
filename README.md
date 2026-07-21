@@ -30,8 +30,9 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | 13| Linux Piping |    ✅ Complete  |
 | 14| Basic Process Management |    ✅ Complete  |
 | 15| Jobs |     |
-| 16| Using Alias |    ✅ Complete  |
-
+| 16| Using Alias |    ✅ Complete |  
+| 17| Network Tools | Complete    |
+| 18| Archiving with tar |   Complete  |
 ## Why This Repo
 
 Understanding Linux internals — filesystem structure, permissions, ownership — 
