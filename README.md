@@ -33,6 +33,12 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | 16| Using Alias |    ✅ Complete |  
 | 17| Network Tools | Complete    |
 | 18| Archiving with tar |   Complete  |
+| 19| gzip & bzip2 |   Complete  |
+| 20| zip & unzip |   Complete  |
+| 21| APT |   Complete  |
+| 22| YUM & DNF |   Complete  |
+| 23| System hardware innfo |   Complete  |
+| 24| Disk usage & File size |   Complete  |
 ## Why This Repo
 
 Understanding Linux internals — filesystem structure, permissions, ownership — 
