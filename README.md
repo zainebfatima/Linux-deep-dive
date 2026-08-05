@@ -39,6 +39,9 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | 22| YUM & DNF |   Complete  |
 | 23| System hardware innfo |   Complete  |
 | 24| Disk usage & File size |   Complete  |
+| 25| User Management |   Complete  |
+| 26| Group Management |   Complete  |
+| 27| Password Policies |   Complete  |
 ## Why This Repo
 
 Understanding Linux internals — filesystem structure, permissions, ownership — 
