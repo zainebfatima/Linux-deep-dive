@@ -1,4 +1,4 @@
-[2:59 pm, 10/07/2026] ...: # Lab 10: Understanding Shells
+ # Lab 10: Understanding Shells
 
 ## Objectives
 - Understand the concept and purpose of a shell in Unix-like operating systems
