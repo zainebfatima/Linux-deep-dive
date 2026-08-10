@@ -42,6 +42,11 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | 25| User Management |   Complete  |
 | 26| Group Management |   Complete  |
 | 27| Password Policies |   Complete  |
+| 28| Scheduling Tasks with CRONTAB |   Complete  |
+| 29| Scheduling Tasks with at |   Complete  |
+| 30| SSH |   Complete  |
+| 31| Vim Editor |   Complete  |
+
 ## Why This Repo
 
 Understanding Linux internals — filesystem structure, permissions, ownership — 
