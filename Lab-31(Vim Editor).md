@@ -101,6 +101,8 @@ Replaced text
 Verified the final contents
 Key Takeaway
 Vim is a powerful terminal-based editor that is especially useful when working with Linux servers where graphical text editors may not be available.
+```
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a160f210-8fc7-4323-b23b-9cd6564ab133" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e5956064-0996-4288-9c85-78de75f6911b" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8bf8f809-169b-444d-b42a-43b81bb5bace" />
