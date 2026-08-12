@@ -97,6 +97,7 @@ Used -C to display surrounding context
 Used -r for recursive directory searching
 Key Takeaway
 grep is a powerful Linux command for finding specific text within files and directories. Its options allow us to control how matching results are displayed, while pipes can be used to connect grep with other commands.
+```
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d67e4204-5a16-4857-a20f-2049fdfac63a" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/db8fe54f-af35-4e4b-8656-7a1021415b57" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7e417e5b-7943-4ab8-8a5b-aa3bfacb6bf8" />
