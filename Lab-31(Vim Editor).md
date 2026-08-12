@@ -1,4 +1,4 @@
-# Day 32 — Introduction to vi/vim
+# Day 31 — Introduction to vi/vim
 
 ## Lab Objectives
 
