@@ -46,6 +46,7 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | 29| Scheduling Tasks with at |   Complete  |
 | 30| SSH |   Complete  |
 | 31| Vim Editor |   Complete  |
+| 32| grep usage |   Complete  |
 
 ## Why This Repo
 
