@@ -86,6 +86,7 @@ sed -i 's/old/new/g' file
 sed '/pattern/d' file
 sed -i '/pattern/d' file
 -i means that the modification is made in-place, directly in the original file.
+```
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2bacca2e-b1e2-41f9-a45a-516e6cc4f74e" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/68b422fd-f96e-440b-9508-49889a98fada" />
 
