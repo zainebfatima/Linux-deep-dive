@@ -1,4 +1,4 @@
-# Day 33 — Basic Grep Usage
+# Day 32 — Basic Grep Usage
 
 ## Lab Objectives
 
