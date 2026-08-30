@@ -15,13 +15,13 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 
 | # | Lab | Status |
 |---|---|---|
-| 1 | Navigating the Filesystem | ✅ Complete |                | 36| basic system logs |   Complete  |
-| 2 | Working with Directories |  ✅ Complete |                | 37| systemd services overview |   Complete  |
-| 3 | Managing Files |  ✅ Complete |                          | 38| basic firewall setup |   Complete  |
-| 4 | Using Text Editors |   ✅ Complete |                     | 39| working with iptables |   Complete  |
-| 5 | File Permissions Basics |    ✅ Complete  |              | 40| basic disk partitioning |   Complete  |
-| 6 | Working with Ownership |    ✅ Complete  |               | 41| mounting & unmounting |   Complete  |
-| 7 | Using Wildcards |    ✅ Complete  |                      | 42| Swap space configuration |   Complete  |
+| 1 | Navigating the Filesystem | ✅ Complete |                
+| 2 | Working with Directories |  ✅ Complete |                
+| 3 | Managing Files |  ✅ Complete |                         
+| 4 | Using Text Editors |   ✅ Complete |                    
+| 5 | File Permissions Basics |    ✅ Complete  |             
+| 6 | Working with Ownership |    ✅ Complete  |               
+| 7 | Using Wildcards |    ✅ Complete  |                      
 | 8 | Viewing File Contents |    ✅ Complete  |
 | 9 | Working with Links |    ✅ Complete  |
 | 10 | Understanding Shells |    ✅ Complete  |
@@ -49,7 +49,14 @@ filesystem concepts — practiced hands-on using a local Ubuntu VM.
 | 32| grep usage |   Complete  |
 | 33| sed |   Complete  |
 | 34| awk |   Complete  |
-| 35| Searching with find |   Complete  |      
+| 35| Searching with find |   Complete  |    
+| 36| basic system logs |   Complete  |
+| 37| systemd services overview |   Complete  |
+| 38| basic firewall setup |   Complete  |
+| 39| working with iptables |   Complete  |
+| 40| basic disk partitioning |   Complete  |
+| 41| mounting & unmounting |   Complete  |
+| 42| Swap space configuration |   Complete  |
 ## Why This Repo
 
 Understanding Linux internals — filesystem structure, permissions, ownership — 
