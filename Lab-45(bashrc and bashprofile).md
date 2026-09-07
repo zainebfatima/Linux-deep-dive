@@ -1,4 +1,4 @@
-Lab 46: Bash Profile vs. Bashrc
+Lab 45: Bash Profile vs. Bashrc
 
 Objectives
 
